@@ -94,4 +94,3 @@ print(x)
 a, b = 10, 3
 print("a + b =", a + b)
 
-https://github.com/s5641343/Lab-2-Programming.git
